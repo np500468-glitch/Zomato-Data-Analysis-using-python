@@ -1,5 +1,6 @@
 # 🍽️ Zomato Data Analysis
 
+![Zomato Data Analysis](https://media.licdn.com/dms/image/v2/D5612AQGDWXM_dmYX0w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1706183889560?e=2147483647&v=beta&t=YQU2ykHyFruOnPOJ_BP5rfX5IPgWrxxavyuHkp5ww5E)
 
 ## 📌 Project Overview
 
